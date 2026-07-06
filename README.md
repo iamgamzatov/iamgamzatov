@@ -13,6 +13,6 @@
 - Готовлюсь к глубокому погружению в низкоуровневые языки (C/C++) для системной разработки
 
 ### 📂 Избранные проекты:
-*   [First-Flask-App](ссылка_на_твой_репозиторий_с_фласком) — учебное веб-приложение для понимания микрофреймворков и роутинга.
-*   [GPU-Price-Tracker](ссылка_на_парсер) — специализированный Python-скрипт для мониторинга доступности и цен на видеокарты.
-*   [Network-Utilities](ссылка_на_утилиты) — набор скриптов для проверки сетевой инфраструктуры.
+*   [First-Flask-App](https://github.com/iamgamzatov/my-first-flask-app) — учебное веб-приложение для понимания микрофреймворков      и роутинга.
+*   [python-http-parsers](https://github.com/iamgamzatov/python-http-parsers) — парсер HTTP, get запросы, POST.
+*   Gamzi VPN (https://github.com/iamgamzatov/vpn_tg_bot) - Telegram Bot VPN!
